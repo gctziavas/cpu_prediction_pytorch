@@ -94,6 +94,14 @@ The project requires the following Python packages (see `requirements.txt` for s
 - **MLflow**: Experiment tracking and model management
 - **Jupyter**: Interactive notebook environment
 
+### MLflow Installation and Setup
+
+For detailed MLflow installation instructions and advanced configuration options, refer to the official documentation:
+- **MLflow Installation Guide**: https://mlflow.org/docs/latest/getting-started/intro-quickstart/index.html
+- **MLflow Tracking Documentation**: https://mlflow.org/docs/latest/tracking.html
+
+The basic installation is included in our `requirements.txt`, but for production deployments or advanced features, consult the official documentation.
+
 ## Usage
 
 ### Option 1: Interactive Jupyter Notebook (Recommended)
